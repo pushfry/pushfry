@@ -1,7 +1,7 @@
 {
   "name": "pushfry",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pushfry",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,6 @@
   },
   "devDependencies": {},
   "keywords": [],
-  "author": "pushfry",
+  "author": "vaaip.com",
   "license": "Apache-2.0"
 }
