@@ -11,7 +11,7 @@
     "socket.io-client": "^2.2.0"
   },
   "devDependencies": {},
-  "keywords": [],
+  "keywords": ["pushfry", "websocket", "realtime"],
   "author": "vaaip.com",
   "license": "Apache-2.0"
 }
