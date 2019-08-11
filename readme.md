@@ -1,5 +1,15 @@
-# Pushfry
-Build Lightning Fast Realtime Applications
+<h1 align="center">Pushfry</h1>
+<p align="center">Build Lightning Fast Realtime Applications</p>
+
+<p align="center"><a href="https://vuejs.org"><img width="150" src="https://i.imgur.com/ao99MmS.png"></a></p>
+<p align="center">
+  <a href="https://github.com/pushfry/pushfry-library"><img src="https://badgen.net/github/release/pushfry/pushfry-library"></a>
+  <a href="https://github.com/pushfry/pushfry-library"><img src="https://badgen.net/github/open-issues/pushfry/pushfry-library"></a>
+  <a href="https://www.npmjs.com/package/pushfry"><img src="https://badgen.net/npm/license/pushfry"></a>
+  <a href="https://www.npmjs.com/package/pushfry"><img src="https://badgen.net/npm/v/pushfry"></a>
+  <a href="https://www.npmjs.com/package/pushfry"><img src="https://badgen.net/npm/dt/pushfry"></a>
+  <a href="https://twitter.com/pushfry"><img src="https://badgen.net/twitter/follow/pushfry"></a>
+</p>
 
 ### Installation
 ```$ npm i pushfry```
