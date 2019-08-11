@@ -1,7 +1,7 @@
 # Pushfry
 Build Lightning Fast Realtime Applications
 
-#### Installation
+### Installation
 ```$ npm i pushfry```
 
 ### Initialization
@@ -18,13 +18,13 @@ const Pushfry = require('pushfry')
 const pushfry = new Pushfry('YOUR_API_KEY', 'YOUR_SECRET_KEY')
 ```
 
-#### Usage
-##### Emit
+### Usage
+#### Emit
 ```js
 pushfry.emit('your_channel_name', 'Hello world')
 ```
 
-##### Listen
+#### Listen
 ```js
 pushfry.on('your_channel_name', data => {
   // Handle data
