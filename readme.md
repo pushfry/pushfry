@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://vuejs.org"><img width="150" src="https://i.imgur.com/ao99MmS.png"></a></p>
 <p align="center">
-  <a href="https://github.com/pushfry/pushfry-library"><img src="https://badgen.net/github/open-issues/pushfry/pushfry-library"></a>
+  <a href="https://github.com/pushfry/pushfry"><img src="https://badgen.net/github/open-issues/pushfry/pushfry"></a>
   <a href="https://www.npmjs.com/package/pushfry"><img src="https://badgen.net/npm/license/pushfry"></a>
   <a href="https://www.npmjs.com/package/pushfry"><img src="https://badgen.net/npm/v/pushfry"></a>
   <a href="https://www.npmjs.com/package/pushfry"><img src="https://badgen.net/npm/dt/pushfry"></a>
