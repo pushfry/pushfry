@@ -35,12 +35,12 @@ const room = pushfry.join('room_name')
 
 #### Emit
 ```js
-room.emit('your_channel_name', 'Hello world')
+room.emit('channel_name', 'Hello world')
 ```
 
 #### Listen
 ```js
-room.on('your_channel_name', data => {
+room.on('channel_name', data => {
   // Handle data
 })
 ```
