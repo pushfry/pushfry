@@ -1,6 +1,6 @@
 {
   "name": "pushfry",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pushfry",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,10 @@
     "socket.io-client": "^2.2.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/pushfry/pushfry"
+  },
   "keywords": ["pushfry", "websocket", "realtime"],
   "author": "vaaip.com",
   "license": "Apache-2.0"
