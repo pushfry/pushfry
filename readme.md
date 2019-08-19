@@ -18,7 +18,6 @@
 ```js
 const Pushfry = require('pushfry')
 const pushfry = new Pushfry('YOUR_API_KEY')
-const room = pushfry.join('room_name')
 ```
 Because of the security reason, please don't add your `SECRET_KEY` when initializing pushfry in client. You just have to initialize with `API_KEY`. And make sure you set the initializing `origin` properly from [Pushfry developer console](https://pushfry.com/console).
 
@@ -26,18 +25,22 @@ Because of the security reason, please don't add your `SECRET_KEY` when initiali
 ```js
 const Pushfry = require('pushfry')
 const pushfry = new Pushfry('YOUR_API_KEY', 'YOUR_SECRET_KEY')
-const room = pushfry.join('room_name')
 ```
 
 ### Usage
+#### Join
+```js
+const room = pushfry.join('room_name')
+```
+
 #### Emit
 ```js
-pushfry.emit('your_channel_name', 'Hello world')
+room.emit('your_channel_name', 'Hello world')
 ```
 
 #### Listen
 ```js
-pushfry.on('your_channel_name', data => {
+room.on('your_channel_name', data => {
   // Handle data
 })
 ```
